@@ -19,7 +19,7 @@ https://github.com/opencv/opencv/tree/4.x/data/haarcascades 이링크에 훈련�
 
 ## Run the program:
 
-*python webcam.py*
+*python webcam_cv2.py*
 
 
 
